@@ -2,7 +2,8 @@
 # 1.Install CentOS /RHEL
 done
 # 2.What is the difference between cat and more command?
-cat: view all the file content
+cat: view all the file content.
+
 more :view file content till certain percentage,then press enter to increase the percentage.
 # 3. What is the difference between rm and rmdir using man?
 rm: remove and empty directory files

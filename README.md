@@ -91,7 +91,6 @@ directory >>> excute and write
 # 18. Create a file with permission 444. Try to edit in it and to remove it? Note whathappened.
 ![Q18-a-lab2](https://github.com/Monaeid2001/red-hat-1/assets/104376815/c5f1d785-b43b-491b-b101-0e0283adfc8b)
 ![Q18-lab2](https://github.com/Monaeid2001/red-hat-1/assets/104376815/a21214ad-e3e2-4531-b9c5-669ddf5f7474)
-# 19. What is the difference between the “x” permission for a file and for a directory?![Uploading Q18-a-lab2.png…]()
-
+# 19. What is the difference between the “x” permission for a file and for a directory?!
 for directory means >> be able to enter inside it by command cd
 for file means >> to be able to run it

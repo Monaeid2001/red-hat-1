@@ -33,7 +33,7 @@
 # 14.Send the sleep command to the foreground and send it again to the background.
 ![lab4-Q14](https://github.com/Monaeid2001/red-hat-1/assets/104376815/5fd88a13-8332-4f5e-a232-ef2b30fbb336)
 # 15.Kill the sleep command.
-![lab4-Q15](https://github.com/Monaeid2001/red-hat-1/assets/104376815/5101e0a9-660d-4642-948a-1ae8658521af)
+![lab4-Q15-edit](https://github.com/Monaeid2001/red-hat-1/assets/104376815/ad553984-cdc7-43b2-bafc-7b2aa48a3115)
 # 16.Display your processes only
 ![lab4-Q16](https://github.com/Monaeid2001/red-hat-1/assets/104376815/4b709fb4-48ed-49c8-9697-2a1eee01e536)
 # 17.Display all processes except yours

@@ -19,9 +19,9 @@
 # 8. Display lines 7 to line 10 of /etc/passwd file
 ![lab4-Q8](https://github.com/Monaeid2001/red-hat-1/assets/104376815/b730bb6f-3220-4bf3-b6c2-9e3ddbc32387)
 # 9. What happens if you execute:
- cat filename1 | cat filename2 --> show file2
- ls | rm --> error
- ls /etc/passwd | wc –l --> get 1
+ cat filename1 | cat filename2 --> show file2...
+ ls | rm --> error.....
+ ls /etc/passwd | wc –l --> get 1....
  # 10.Issue the command sleep 100.
  ![lab4-Q10](https://github.com/Monaeid2001/red-hat-1/assets/104376815/a0e3f3e3-cff6-4d7a-887c-1d3b665c662c)
 # 11.Stop the last command.

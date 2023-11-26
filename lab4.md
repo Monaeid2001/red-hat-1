@@ -17,7 +17,7 @@
 # 7. Display the number of users who is logged now to the system.
 ![lab4-Q7](https://github.com/Monaeid2001/red-hat-1/assets/104376815/ede85f70-60c4-41b5-9c3b-ca870388db6d)
 # 8. Display lines 7 to line 10 of /etc/passwd file
-
+![lab4](https://github.com/Monaeid2001/red-hat-1/assets/104376815/9abd65e3-871c-4077-a1de-f8bf23785b2c)
 # 9. What happens if you execute:
  cat filename1 | cat filename2 --> show file2...
  ls | rm --> error.....

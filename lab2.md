@@ -38,20 +38,20 @@
 # created? And what is that for directory.
 ![Q16-b-lab2](https://github.com/Monaeid2001/red-hat-1/assets/104376815/b2e008b0-b2bc-4901-b07f-932d0838d114)
 # 16-c(What is the maximum permission a file can have, by default when it is just created? And what is that for directory.)
-for file >>> the maximum is two and those two permissions are read and write
-for directory >>> the maximum is three and those three permissions are read, write and excute
+# for file >>> the maximum is two and those two permissions are read and write
+# for directory >>> the maximum is three and those three permissions are read, write and excute
 # 16-d: Change your default permissions to be no permission to everyone then create a directory and a file to verify.
 ![Q16-d-lab2](https://github.com/Monaeid2001/red-hat-1/assets/104376815/7f02d9bf-4ec1-4f4d-9a3b-d3bfe031c4c4)
 # 17:What are the minimum permission needed for:
 # a. Copy a directory (permission for source directory and permissions for target parent directory)
-for source directory >>> read only.
-for target directory >>> excute and write to add file in directory
+# for source directory >>> read only.
+# for target directory >>> excute and write to add file in directory
 # b. Copy a file (permission for source file and and permission for target parent directory)
-for source file >>> read only
-for target directory >>> excute and write to add file in directory
+# for source file >>> read only
+# for target directory >>> excute and write to add file in directory
 # Delete a file
-file >>> don't need any permissions
-directory >>> excute and write
+# file >>> don't need any permissions
+# directory >>> excute and write
 # d. Change to a directory >>> excute and write
 # e. List a directory content (ls command) >>> read only
 # f. View a file content (more/cat command) >>> read only![Q18-a-lab2](https://github.com/Monaeid2001/red-hat-1/assets/104376815/430aafab-5747-43ed-a879-dbc782fda39d)
@@ -60,6 +60,6 @@ directory >>> excute and write
 ![Q18-a-lab2](https://github.com/Monaeid2001/red-hat-1/assets/104376815/c5f1d785-b43b-491b-b101-0e0283adfc8b)
 ![Q18-lab2](https://github.com/Monaeid2001/red-hat-1/assets/104376815/a21214ad-e3e2-4531-b9c5-669ddf5f7474)
 # 19. What is the difference between the “x” permission for a file and for a directory?!
-for directory means >> be able to enter inside it by command cd
-for file means >> to be able to run it
+# for directory means >> be able to enter inside it by command cd
+# for file means >> to be able to run it
 

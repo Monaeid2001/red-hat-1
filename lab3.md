@@ -1,6 +1,7 @@
 # lab 3
 1. Using vi write your CV in the file mycv. Your CV should include your name, age, school,college, experience,...
 ![lab3-Q1](https://github.com/Monaeid2001/red-hat-1/assets/104376815/aa2c83c0-3c11-4591-a544-df039482e715)
+
 # 2-Open mycv file using vi command then: Without using arrows state how to:
 # a. Move the cursor down one line at time ---> by press j letter
 # b. Move the cursor up one line at time ---> by press k letter
